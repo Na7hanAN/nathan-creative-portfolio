@@ -1,0 +1,140 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*Index page*/
+body {
+	background-color: #797d62;
+}
+
+#index1 {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -500px;
+	margin-top: -168px;
+}
+
+#index1 table {
+	border-collapse: separate;
+	border-spacing: 0px;
+}
+
+.title {
+	padding-right: 80px;
+	text-align: right;
+}
+
+.main {
+	font-family: 'Trajan Pro 3';
+	color: #ffcb70;
+	font-size: 95px;
+	font-weight: 400;
+	line-height: 5px;
+}
+
+.submain {
+	font-family: 'Trajan Pro 3';
+	color: #ffcb70;
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.mainop {
+	font-family: Luminari;
+	color: #ffcb70;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 82px;
+	border-left: 2px solid #ffcb70;
+	padding-left: 60px;
+}
+
+
+footer {
+	position: fixed;
+	bottom: 0;
+	color: #ffcb70;
+}
+
+footer a {
+	color: #ffcb70;
+	text-decoration-line: none;
+	background-color: #797d62;
+}
+
+/*Writing page*/
+header {
+	height: auto;
+	width:100%;
+	background-color: #797d62;
+	text-align: center;
+	border-style: solid;
+	border-color: white;
+}
+
+.Navmain {
+  	font-size: 60px;
+ 	font-family: "Trajan Pro 3";
+  	color: white;
+	font-weight: 200;
+
+}
+
+.navsubmain {
+	font-size: 20px;
+  	font-family: "Trajan Pro 3";
+  	color: White;
+	line-height: 2px
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0;
+	}
+
+nav ul li {
+	margin-left: 20px;
+	display: inline;
+	  padding-bottom: .5em;
+  letter-spacing: .15em;
+color: white;
+ font-size: 20px;
+  font-family: "Trattatello";
+}
+
+nav ul li a {
+  	text-decoration: none;
+  	letter-spacing: .15em;
+	color: white;
+ 	font-size: 20px;
+  	font-family: "Trattatello";
+}
+
+
+/*Individual Page*/
+
+.passagetitle {
+	font-family: Luminari;
+	font-size: 30px;
+	color: #ffcb70;
+	text-align: center;
+	line-height: auto;
+}
+
+.p1 {
+	text-indent: 30px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.p2 {
+	text-indent: 30px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 22px;
+	line-height: 25px;
+}
+
+
+
